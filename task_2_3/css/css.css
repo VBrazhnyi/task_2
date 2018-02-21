@@ -1,0 +1,29 @@
+.main-block {
+  background-color: #77ccc6;
+  background-position: top left;
+  height: 447px;
+  width: 560px;
+}
+.water{
+  position: absolute;
+  top: 410px;
+  width: 560px;
+}
+.clouds{
+  position: absolute;
+  top: 9px;
+  left: 235px;
+  width: 300px;
+}
+.wooden-ship{
+  position: absolute;
+  top: 302px;
+  left: 28px;
+  width: 115px;
+}
+.world{
+  position: absolute;
+  top: 115px;
+  width: 560px;
+}
+
